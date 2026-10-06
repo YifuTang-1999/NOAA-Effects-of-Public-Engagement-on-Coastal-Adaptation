@@ -1,5 +1,5 @@
 # NOAA-Effects-of-Public-Engagement-on-Coastal-Adaptation
-# README: Connecticut Environmental Action Similarity Analysis
+# Environmental Action Similarity Analysis
 
 ## 1. Purpose of the File
 
